@@ -10,4 +10,4 @@ This is a POC to test Api gateway cache
 
 #configure: URL Query String Parameters with param cp
 
-#Also you can use HTTP Request Headers to set headers like authorization for JWT or similar
+#Also you can use HTTP Request Headers to set headers like "Authorization" for JWT or similar
